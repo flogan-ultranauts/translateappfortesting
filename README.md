@@ -17,3 +17,5 @@
 - See the JavaScript files in /components for the different spelling and terms your application should translate
 - To run the tests on Repl.it, set NODE_ENV to test without quotes in the .env file
 - To run the tests in the console, use the command npm run test. To open the Repl.it console, press Ctrl+Shift+P (Cmd if on a Mac) and type "open shell"
+
+Live App: [Translate App](https://translateapp101.herokuapp.com/)
