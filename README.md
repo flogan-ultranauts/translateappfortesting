@@ -1,5 +1,5 @@
 # [QA Projects - American / British Translator](#)
-# Wrote the following app to tests js proficiency:
+# Wrote the following app to tests js proficiency (aims/directives below):
 
 - You can POST to `/api/translate` with a body containing text with the text to translate and locale with either american-to-british or british-to-american. The returned object should contain the submitted text and translation with the translated text.
 - The `/api/translate` route should handle the way time is written in American and British English. For example, ten thirty is written as "10.30" in British English and "10:30" in American English.
